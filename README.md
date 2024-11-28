@@ -30,4 +30,4 @@ The project uses:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-management-system-web.git
+   [git clone https://github.com/your-username/student-management-system-web.git](https://github.com/25harshdeep17/student-management-system-web)
